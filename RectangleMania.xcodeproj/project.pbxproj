@@ -25,6 +25,9 @@
 /* Begin PBXFileReference section */
 		D04C508B245DE03A00E217A0 /* RectangleMania */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RectangleMania; sourceTree = BUILT_PRODUCTS_DIR; };
 		D04C508E245DE03A00E217A0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D04C509624643B6000E217A0 /* RectangleMania.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RectangleMania.h; sourceTree = "<group>"; };
+		D04C509724643D2200E217A0 /* RectangleManiaOpt.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RectangleManiaOpt.h; sourceTree = "<group>"; };
+		D06E8172246832AA00722707 /* Point.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Point.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,9 @@
 			isa = PBXGroup;
 			children = (
 				D04C508E245DE03A00E217A0 /* main.cpp */,
+				D04C509624643B6000E217A0 /* RectangleMania.h */,
+				D04C509724643D2200E217A0 /* RectangleManiaOpt.h */,
+				D06E8172246832AA00722707 /* Point.h */,
 			);
 			path = RectangleMania;
 			sourceTree = "<group>";

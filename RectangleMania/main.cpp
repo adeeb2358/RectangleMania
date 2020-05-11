@@ -5,6 +5,7 @@
 #include <vector>
 #include "RectangleMania.h"
 #include "RectangleManiaOpt.h"
+#include "RectangleMainiaFinal.h"
 
 int main(int argc, const char * argv[]) {
     std::cout << "No of rectangles formed from a set of coordinates" << std::endl;
@@ -17,5 +18,9 @@ int main(int argc, const char * argv[]) {
     std::cout << std::endl;
     RectangleManiaOpt oRectangleManiaOpt;
     std::cout << oRectangleManiaOpt.rectangleMania(cords);
+    std::cout << std::endl;
+    RectangleManiaFinal oRectangleManiaFinal;
+    std::cout << oRectangleManiaFinal.rectangleMania(cords);
+    std::cout << std::endl;
     return 0;
 }

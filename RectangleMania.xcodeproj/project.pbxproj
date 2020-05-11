@@ -28,6 +28,7 @@
 		D04C509624643B6000E217A0 /* RectangleMania.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RectangleMania.h; sourceTree = "<group>"; };
 		D04C509724643D2200E217A0 /* RectangleManiaOpt.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RectangleManiaOpt.h; sourceTree = "<group>"; };
 		D06E8172246832AA00722707 /* Point.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Point.h; sourceTree = "<group>"; };
+		D06E81732468CF6900722707 /* RectangleMainiaFinal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RectangleMainiaFinal.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 				D04C509624643B6000E217A0 /* RectangleMania.h */,
 				D04C509724643D2200E217A0 /* RectangleManiaOpt.h */,
 				D06E8172246832AA00722707 /* Point.h */,
+				D06E81732468CF6900722707 /* RectangleMainiaFinal.h */,
 			);
 			path = RectangleMania;
 			sourceTree = "<group>";
